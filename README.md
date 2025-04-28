@@ -4,7 +4,7 @@ My name is Rohan Bhole and this is my GitHub page
 
 I graduated from Georgia Tech with a Bachelors in CS and specialization in People and Media
 
-On my page you'll find a couple of the projects that I'm working on:
+On my page you'll find a couple of the projects that I'm working on below
 
 ## My current projects
 Discord Bot
